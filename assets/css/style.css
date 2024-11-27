@@ -1,0 +1,36 @@
+/*Блокова модель*/
+body {
+    text-align: middle;
+}
+
+p {
+    width: 200px;
+    /*height: 300px;*/
+    /*background-color: blanchedalmond;*/
+    border: 1px solid red;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    /*text-align: initial;*/
+    vertical-align: middle;
+}
+
+a {
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+
+/*Приклад*/
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.nav-link-item {
+    display: inline;
+}
